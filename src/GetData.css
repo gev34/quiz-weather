@@ -1,0 +1,16 @@
+.dataInfo{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(175, 172, 172);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+}
+.dataInfo div{
+    margin-top:8px;
+}
